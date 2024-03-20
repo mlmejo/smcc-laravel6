@@ -1,1 +1,7 @@
-//
+@import url("https://fonts.bunny.net/css?family=inter:400,500,600");
+
+$min-contrast-ratio: 3;
+$primary: #4e73df;
+$font-family-base: "Inter", sans-serif;
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
